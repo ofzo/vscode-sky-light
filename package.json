@@ -1,0 +1,21 @@
+{
+  "name": "sky-light",
+  "displayName": "Sky Light",
+  "description": "The sky light theme for Vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sky Light",
+        "uiTheme": "vs",
+        "path": "./themes/Sky Light-color-theme.json"
+      }
+    ]
+  }
+}
