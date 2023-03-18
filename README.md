@@ -1,4 +1,4 @@
-# sea-light README
+# sky-light README
 
 ## Working with Markdown
 
