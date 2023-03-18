@@ -2,7 +2,7 @@
   "name": "sky-light",
   "displayName": "Sky Light",
   "description": "The sky light theme for Vscode theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/roadupcc/vscode-sky-light",
   "author": "roadup",
   "license": "MIT",
@@ -10,6 +10,7 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
